@@ -1,4 +1,5 @@
 # Telco_Customer_Churn_Analysis
+Use Multiple Linear Regression, Python, Pandas, and Matplotlib to analyze the lifetime value and the key factors of the ‘Telco Customer Churn’ dataset
 
 ## Dataset
 
