@@ -1,12 +1,11 @@
 # Customer-Churn
-Telco customer data analysis. 
+Telco customer data analysis: 
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs."
 
 # Business Understanding
 Machine learning enables decision makers to predict customer churn using company-owned historical data.
 
 # Dataset
-
-"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs."
 
 [IBM Sample Data Sets] https://www.kaggle.com/blastchar/telco-customer-churn 
 
