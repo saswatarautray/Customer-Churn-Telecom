@@ -4,7 +4,7 @@ Telco customer data analysis.
 # Business Understanding
 Machine learning enables decision makers to predict customer churn using company-owned historical data.
 
-# Data Understanding
+# Dataset
 
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs."
 
@@ -41,8 +41,7 @@ Each row represents a customer, each column contains customer’s attributes des
 ### -Code Used:
 * Python Version : 3.7.6
 * Packages : Pandas, Numpy, Sklearn, Matplotlib, Seaborn
-### -Importing Dataset
-* Source Data: Dataset link https://drive.google.com/file/d/1ezxv0D1ARcrR63-sMHEvKwhnNMIvUhZC/view
+
 ### -Inspect The Initial Condition of Data
 
 # Data Cleansing
