@@ -5,6 +5,13 @@ Telco customer data analysis.
 Machine learning enables decision makers to predict customer churn using company-owned historical data.
 
 # Data Understanding
+
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs."
+
+[IBM Sample Data Sets] https://www.kaggle.com/blastchar/telco-customer-churn 
+
+Each row represents a customer, each column contains customer’s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The “Churn” column is our target.
+
 ### Data Dictionary
 
 * customerID: Customer ID
@@ -66,6 +73,6 @@ I looked at the distributions of the data and the value counts for the various c
 # Summary
 * Machine learning enables decision makers to predict customer churn using company-owned historical data.
 * The evaluation metric that be used is AUC (Area Under ROC Curve).
-* I tried three different models: Support vector machine, Decision Tree Model, and Random Forest Model.
+* Tried three different models: Support vector machine, Decision Tree Model, and Random Forest Model.
 * The Random Forest model has better performence than the other approaches on the test and validation sets.
 
