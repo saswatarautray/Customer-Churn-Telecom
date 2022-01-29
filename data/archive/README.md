@@ -1,5 +1,4 @@
 # Telco_Customer_Churn_Analysis
-## by Yueh-Han Chen
 
 ## Dataset
 
